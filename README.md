@@ -1,8 +1,9 @@
-<div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s"  />
-</div>
+<!--div align="center">
+  <img height="150" src=""  />
+</div-->
 
 ###
+![Uploading github banner.png…]()
 
 <h2 align="center">hey there 👋, I'm Milinda</h2>
 

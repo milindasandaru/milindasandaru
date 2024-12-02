@@ -31,4 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.SHA256:pTVs9J9JrtQps1gpVq6FThsK9TYcYObqv6CNRXnxYME }}
+          GITHUB_TOKEN: ${{ secrets.MSsena#%21321 }}

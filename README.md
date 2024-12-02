@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/milindasandaru/milindasandaru/output/snake.svg)
+<img src="https://raw.githubusercontent.com/milindasandaru/milindasandaru/output/snake.svg" alt="Snake animation" />
 
 ###
 

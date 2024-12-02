@@ -91,6 +91,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milindasandaru&show_icons=true&locale=en" alt="milindasandaru" /></p>
 
 ###
 
@@ -114,16 +115,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="45" height="24" alt="behance logo"  />
 </div>
 
+###
 
+<h2 align="left"></h2>
 
-
-
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindasandaru&show_icons=true&locale=en&layout=compact" alt="milindasandaru" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milindasandaru&show_icons=true&locale=en" alt="milindasandaru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milindasandaru&" alt="milindasandaru" /></p>
-
 
 ###

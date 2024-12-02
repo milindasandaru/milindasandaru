@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/milindasandaru/milindasandaru/output/snake.svg)
 
 ###
 

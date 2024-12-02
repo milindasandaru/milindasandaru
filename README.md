@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-<img src="./snake.yml" alt="Snake animation" />
+<img src="anything.png" alt="Snake animation" />
 
 ###
 

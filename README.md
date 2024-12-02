@@ -99,6 +99,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/milindasandaru/milindasandaru/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://www.facebook.com/share/15BeCMraMH/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="24" alt="facebook logo"  />

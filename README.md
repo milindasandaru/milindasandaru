@@ -99,6 +99,14 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindasandaru&show_icons=true&locale=en&layout=compact" alt="milindasandaru" /></p>
+
+###
+
 <div align="center">
   <a href="https://www.facebook.com/share/15BeCMraMH/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="24" alt="facebook logo"  />
@@ -114,13 +122,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="24" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="45" height="24" alt="behance logo"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindasandaru&show_icons=true&locale=en&layout=compact" alt="milindasandaru" /></p>
 
 ###

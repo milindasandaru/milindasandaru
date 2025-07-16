@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="90%" src="./assets/Git Banner_l.png"  />
+  <img height="90%" src="./assets/git_profile_banner.png"  />
 </div>
 
 ###

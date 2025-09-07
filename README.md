@@ -23,8 +23,8 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 | Repository | Description | Technologies |
 |------------|-------------|--------------|
 | [AutoFiks-ITP-Project](https://github.com/milindasandaru/AutoFiks-ITP-Project) | Comprehensive automotive management system with customer service, employee management, and spare parts modules | Node.js, React, MongoDB, Express |
-| [WALLET - Personal Finance Tracker](#) | Personal finance management mobile application with real-time transactions, smart data storage, and powerful analytics for better financial decisions | Kotlin, Android Studio |
-| [Online Banking System](#) | Java EE web application for online banking with user authentication, bill payment, transaction history, and password recovery via email/OTP | Java EE, JSP, Servlets, MySQL, Apache Tomcat |
+| [WALLET - Personal Finance Tracker](https://github.com/milindasandaru/Wallet_The_Financial_Tracker) | Personal finance management mobile application with real-time transactions, smart data storage, and powerful analytics for better financial decisions | Kotlin, Android Studio |
+| [Online Banking System](https://github.com/milindasandaru/HDSCOnlineBankingSystem) | Java EE web application for online banking with user authentication, bill payment, transaction history, and password recovery via email/OTP | Java EE, JSP, Servlets, MySQL, Apache Tomcat |
 
 ## GitHub Statistics
 

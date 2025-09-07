@@ -31,7 +31,7 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 <div align="center">
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=milindasandaru&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="400" /></td>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=milindasandaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=milindasandaru&theme=dark&hide_border=true" width="400" /></td>
 </tr>
 <tr>

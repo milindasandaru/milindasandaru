@@ -51,7 +51,7 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
   </a>
   <a href="https://samssenrath.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/globe/default.svg" width="40" height="30" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=flat&logoColor=white" width="80" height="30" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter" />

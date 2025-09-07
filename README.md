@@ -100,7 +100,7 @@
 <!--| ![Milinda's github stats](https://github-readme-stats.vercel.app/api?username=milindasandaru&show_icons=true&theme=tokyonight) | ![Milinda GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milindasandaru&theme=tokyonight)|
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milindasandaru&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=milindasandaru&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
--->
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=milindasandaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milindasandaru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> </div>
@@ -115,6 +115,15 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=milindasandaru&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=milindasandaru&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milindasandaru&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=milindasandaru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <br>
 

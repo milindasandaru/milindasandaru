@@ -10,11 +10,12 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 
 ## Skills and Technologies
 
-**Programming Languages:** JavaScript, Java, Python, C, C++, PHP, SQL  
+**Programming Languages:** JavaScript, Java, Python, C, C++, PHP, SQL, Kotlin  
 **Frontend Development:** HTML5, CSS3, React, Angular  
-**Backend Development:** Node.js, REST APIs  
+**Backend Development:** Node.js, REST APIs, Java EE, JSP, Servlets  
+**Mobile Development:** Android Studio, Kotlin  
 **Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, Linux, VS Code, IntelliJ IDEA, Figma  
+**Tools & Platforms:** Git, Linux, VS Code, IntelliJ IDEA, Figma, Apache Tomcat, Eclipse IDE  
 **Design & Media:** Photoshop, Illustrator, After Effects, Premiere Pro
 
 ## Main Repositories
@@ -22,8 +23,8 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 | Repository | Description | Technologies |
 |------------|-------------|--------------|
 | [AutoFiks-ITP-Project](https://github.com/milindasandaru/AutoFiks-ITP-Project) | Comprehensive automotive management system with customer service, employee management, and spare parts modules | Node.js, React, MongoDB, Express |
-| [Project Name 2](#) | Description of your second main project | Tech stack |
-| [Project Name 3](#) | Description of your third main project | Tech stack |
+| [WALLET - Personal Finance Tracker](#) | Personal finance management mobile application with real-time transactions, smart data storage, and powerful analytics for better financial decisions | Kotlin, Android Studio |
+| [Online Banking System](#) | Java EE web application for online banking with user authentication, bill payment, transaction history, and password recovery via email/OTP | Java EE, JSP, Servlets, MySQL, Apache Tomcat |
 
 ## GitHub Statistics
 
@@ -44,19 +45,19 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 
 <div align="center">
   <a href="https://www.instagram.com/milind_sandaruwan_?igsh=cm9yYjl1OHdoZW5k" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/milinda-sandaruwan-59b2a8275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/samssenarath" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://samssenrath.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="40" height="30" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
   </a>
 </div>
 

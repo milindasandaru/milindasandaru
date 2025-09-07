@@ -90,7 +90,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!--h3 align="left">🔥   My Stats :</h3-->
 
 <!--div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milindasandaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -116,7 +116,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -->
 
-# 📊 GitHub Stats:
+# <h3>📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=milindasandaru&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=milindasandaru&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milindasandaru&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)

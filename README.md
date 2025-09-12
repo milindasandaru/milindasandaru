@@ -4,10 +4,6 @@
 
 <h2 align="center">Hello, I'm Milinda Sandaruwan</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milindasandaru&label=Profile%20views&color=0e75b6&style=flat" alt="charyasamadhi" />
-</p>
-
 ## About Me
 
 I'm an undergraduate at SLIIT University passionate about full-stack development and software engineering. I specialize in building scalable web applications using modern technologies like JavaScript, React, Node.js, and database systems. I enjoy solving complex problems, contributing to open-source projects, and continuously learning new technologies to create impactful solutions.

@@ -65,4 +65,7 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 <div align="center">
   <b>Milinda Sandaruwan ❤️</b><br>
   <i>Thanks for visiting my profile! Feel free to reach out for collaboration opportunities.</i>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=milindasandaru&label=Profile%20views&color=0e75b6&style=flat" alt="charyasamadhi" />
+</p>
 </div>

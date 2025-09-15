@@ -11,7 +11,7 @@ I'm an undergraduate at SLIIT University passionate about full-stack development
 ## Skills and Technologies
 
 **Programming Languages:** JavaScript, Java, Python, C, C++, PHP, SQL, Kotlin  
-**Frontend Development:** HTML5, CSS3, React, Angular  
+**Frontend Development:** HTML5, CSS3, React, Angular , Tailwind
 **Backend Development:** Node.js, REST APIs, Java EE, JSP, Servlets  
 **Mobile Development:** Android Studio, Kotlin  
 **Databases:** MongoDB, MySQL  

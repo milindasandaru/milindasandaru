@@ -83,40 +83,46 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 ### ✨ Favorite Anime Characters
 
 <div align="center">
-  <a href="./assets/gojo_satoru.png" title="Gojo Satoru">
+  <a href="#" title="Gojo Satoru">
+    <img src="./assets/gojo_satoru.png" alt="Gojo Satoru" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
-  <a href="./assets/ryomen_sukuna.png" title="Ryomen Sukuna">
+  <a href="#" title="Ryomen Sukuna">
+    <img src="./assets/ryomen_sukuna.png" alt="Ryomen Sukuna" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
-  <a href="./assets/toji_fushiguro.png" title="Toji Fushiguro">
+  <a href="#" title="Toji Fushiguro">
+    <img src="./assets/toji_fushiguro.png" alt="Toji Fushiguro" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
-  <a href="./assets/sung_jinwoo.png" title="Sung Jinwoo">
+  <a href="#" title="Sung Jinwoo">
+    <img src="./assets/sung_jinwoo.png" alt="Sung Jinwoo" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
-  <a href="./assets/light_yagami.png" title="Light Yagami">
+  <a href="#" title="Light Yagami">
+    <img src="./assets/light_yagami.png" alt="Light Yagami" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
 </div>
 
+<!--
 ---
 
-<!--### 🎵 Favorite Artists
+### 🎵 Favorite Artists
 
 <div align="center">
   <a href="#" title="The Weeknd">
-    <img src="https://placehold.co/100x100?text=Weeknd" alt="The Weeknd" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/the_weeknd.png" alt="The Weeknd" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
   <a href="#" title="The Neighbourhood">
-    <img src="https://placehold.co/100x100?text=NBHD" alt="The Neighbourhood" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/the_neighbourhood.png" alt="The Neighbourhood" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
   <a href="#" title="Lana Del Rey">
-    <img src="https://placehold.co/100x100?text=Lana+Del+Rey" alt="Lana Del Rey" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/lana_del_rey.png" alt="Lana Del Rey" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
   <a href="#" title="Travis Scott">
-    <img src="https://placehold.co/100x100?text=Travis+Scott" alt="Travis Scott" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/travis_scott.png" alt="Travis Scott" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
   <a href="#" title="Chase Atlantic">
-    <img src="https://placehold.co/100x100?text=Chase+Atlantic" alt="Chase Atlantic" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/chase_atlantic.png" alt="Chase Atlantic" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
   <a href="#" title="Cigarettes After Sex">
-    <img src="https://placehold.co/100x100?text=CAS" alt="Cigarettes After Sex" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/cas.png" alt="Cigarettes After Sex" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
 </div-->
 

@@ -2,11 +2,7 @@
   <img src="./assets/git_profile_banner.png" alt="Milinda Sandaruwan" />
 </div>
 
-<h3 align="center">Hello, I'm Milinda Sandaruwan ⚡</h3>
-
-<p align="center">
-  <i>"To achieve something, you need to sacrifice something." — Gojo Satoru</i>
-</p>
+<h3 align="center">Hello, I'm Milinda Sandaruwan</h3>
 
 ---
 
@@ -130,7 +126,6 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 <div align="center">
   <b>Milinda Sandaruwan ❤️</b><br>
-  <i>“In the world of code, I’m the sorcerer of logic.”</i>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=milindasandaru&label=Profile%20views&color=0e75b6&style=flat" alt="milindasandaru" />
   </p>

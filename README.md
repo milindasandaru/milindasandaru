@@ -80,18 +80,6 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ---
 
-## 🎥 Favorits characters
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/94/fb/69/94fb695ed87a705c3f5977f06384ab23.gif" width="150" title="Gojo Satoru" />
-  <img src="https://i.pinimg.com/originals/12/f3/fd/12f3fdc366424e1bdb1ccabbb184f60b.gif" width="150" title="Sukuna" />
-  <img src="https://i.pinimg.com/originals/45/02/83/45028323b7a7448f92c3dc8fa3f6c65b.gif" width="150" title="Toji Fushiguro" />
-  <img src="https://i.pinimg.com/originals/35/02/67/350267f4d1d2f6d143b0c5df9f93c905.gif" width="150" title="Sung Jinwoo" />
-  <img src="https://i.pinimg.com/originals/1d/2d/df/1d2ddf9bfc9a0ee17f4c41493a0432f8.gif" width="150" title="Light Yagami" />
-</p>
-
----
-
 <div align="center">
   <b>Milinda Sandaruwan ❤️</b><br>
   <i>“In the world of code, I’m the sorcerer of logic.”</i>

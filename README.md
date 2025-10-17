@@ -2,7 +2,7 @@
   <img src="./assets/git_profile_banner.png" alt="Milinda Sandaruwan" />
 </div>
 
-<h2 align="center">Hello, I'm Milinda Sandaruwan ⚡</h2>
+<h3 align="center">Hello, I'm Milinda Sandaruwan ⚡</h3>
 
 <p align="center">
   <i>"To achieve something, you need to sacrifice something." — Gojo Satoru</i>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 I'm an undergraduate at SLIIT University passionate about full-stack development and software engineering.  
 I specialize in building scalable web applications using modern technologies like JavaScript, React, Node.js, and database systems.  
@@ -19,7 +19,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ---
 
-## 🛠 Skills and Technologies
+### 🛠 Skills and Technologies
 
 **Programming Languages:** JavaScript, Java, Python, C, C++, PHP, SQL, Kotlin  
 **Frontend Development:** HTML5, CSS3, React, Angular, Tailwind  
@@ -31,7 +31,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ---
 
-## 📂 Main Repositories
+### 📂 Main Repositories
 
 | Repository | Description | Technologies |
 |------------|-------------|--------------|
@@ -41,7 +41,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
 <table>
@@ -58,7 +58,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.instagram.com/milind_sandaruwan_?igsh=cm9yYjl1OHdoZW5k" target="_blank">
@@ -75,6 +75,53 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
   </a>
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
+  </a>
+</div>
+
+---
+
+### ✨ Favorite Anime Characters
+
+<div align="center">
+  <a href="#" title="Gojo Satoru">
+    <img src="https://placehold.co/100x100?text=Gojo" alt="Gojo Satoru" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Ryomen Sukuna">
+    <img src="https://placehold.co/100x100?text=Sukuna" alt="Ryomen Sukuna" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Toji Fushiguro">
+    <img src="https://placehold.co/100x100?text=Toji" alt="Toji Fushiguro" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Sung Jinwoo">
+    <img src="https://placehold.co/100x100?text=Jinwoo" alt="Sung Jinwoo" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Light Yagami">
+    <img src="https://placehold.co/100x100?text=Light" alt="Light Yagami" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+</div>
+
+---
+
+### 🎵 Favorite Artists
+
+<div align="center">
+  <a href="#" title="The Weeknd">
+    <img src="https://placehold.co/100x100?text=Weeknd" alt="The Weeknd" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="The Neighbourhood">
+    <img src="https://placehold.co/100x100?text=NBHD" alt="The Neighbourhood" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Lana Del Rey">
+    <img src="https://placehold.co/100x100?text=Lana+Del+Rey" alt="Lana Del Rey" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Travis Scott">
+    <img src="https://placehold.co/100x100?text=Travis+Scott" alt="Travis Scott" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Chase Atlantic">
+    <img src="https://placehold.co/100x100?text=Chase+Atlantic" alt="Chase Atlantic" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  </a>
+  <a href="#" title="Cigarettes After Sex">
+    <img src="https://placehold.co/100x100?text=CAS" alt="Cigarettes After Sex" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
 </div>
 

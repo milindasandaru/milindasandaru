@@ -84,19 +84,19 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 <div align="center">
   <a href="#" title="Gojo Satoru">
-    <img src="./assets/gojo_satoru.png" alt="Gojo Satoru" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/gojo_satoru.png" alt="Gojo Satoru" width="150" height="210" style="border-radius:14px; object-fit:cover; margin:10px; box-shadow:0 2px 8px #2222;" />
   </a>
   <a href="#" title="Ryomen Sukuna">
-    <img src="./assets/ryomen_sukuna.png" alt="Ryomen Sukuna" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/ryomen_sukuna.png" alt="Ryomen Sukuna" width="150" height="210" style="border-radius:14px; object-fit:cover; margin:10px; box-shadow:0 2px 8px #2222;" />
   </a>
   <a href="#" title="Toji Fushiguro">
-    <img src="./assets/toji_fushiguro.png" alt="Toji Fushiguro" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/toji_fushiguro.png" alt="Toji Fushiguro" width="150" height="210" style="border-radius:14px; object-fit:cover; margin:10px; box-shadow:0 2px 8px #2222;" />
   </a>
   <a href="#" title="Sung Jinwoo">
-    <img src="./assets/sung_jinwoo.png" alt="Sung Jinwoo" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/sung_jinwoo.png" alt="Sung Jinwoo" width="150" height="210" style="border-radius:14px; object-fit:cover; margin:10px; box-shadow:0 2px 8px #2222;" />
   </a>
   <a href="#" title="Light Yagami">
-    <img src="./assets/light_yagami.png" alt="Light Yagami" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+    <img src="./assets/light_yagami.png" alt="Light Yagami" width="150" height="210" style="border-radius:14px; object-fit:cover; margin:10px; box-shadow:0 2px 8px #2222;" />
   </a>
 </div>
 

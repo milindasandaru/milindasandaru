@@ -83,26 +83,21 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 ### ✨ Favorite Anime Characters
 
 <div align="center">
-  <a href="#" title="Gojo Satoru">
-    <img src="https://placehold.co/100x100?text=Gojo" alt="Gojo Satoru" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <a href="./assets/gojo_satoru.png" title="Gojo Satoru">
   </a>
-  <a href="#" title="Ryomen Sukuna">
-    <img src="https://placehold.co/100x100?text=Sukuna" alt="Ryomen Sukuna" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <a href="./assets/ryomen_sukuna.png" title="Ryomen Sukuna">
   </a>
-  <a href="#" title="Toji Fushiguro">
-    <img src="https://placehold.co/100x100?text=Toji" alt="Toji Fushiguro" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <a href="./assets/toji_fushiguro.png" title="Toji Fushiguro">
   </a>
-  <a href="#" title="Sung Jinwoo">
-    <img src="https://placehold.co/100x100?text=Jinwoo" alt="Sung Jinwoo" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <a href="./assets/sung_jinwoo.png" title="Sung Jinwoo">
   </a>
-  <a href="#" title="Light Yagami">
-    <img src="https://placehold.co/100x100?text=Light" alt="Light Yagami" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <a href="./assets/light_yagami.png" title="Light Yagami">
   </a>
 </div>
 
 ---
 
-### 🎵 Favorite Artists
+<!--### 🎵 Favorite Artists
 
 <div align="center">
   <a href="#" title="The Weeknd">
@@ -123,7 +118,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
   <a href="#" title="Cigarettes After Sex">
     <img src="https://placehold.co/100x100?text=CAS" alt="Cigarettes After Sex" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
-</div>
+</div-->
 
 ---
 

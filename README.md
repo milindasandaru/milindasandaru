@@ -99,7 +99,6 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
   </a>
 </div>
 
-<!--
 ---
 
 ### 🎵 Favorite Artists
@@ -123,7 +122,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
   <a href="#" title="Cigarettes After Sex">
     <img src="./assets/cas.png" alt="Cigarettes After Sex" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
   </a>
-</div-->
+</div>
 
 ---
 

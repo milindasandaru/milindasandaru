@@ -105,22 +105,31 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 <div align="center">
   <a href="#" title="The Weeknd">
-    <img src="./assets/the_weeknd.png" alt="The Weeknd" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
-  </a>
-  <a href="#" title="The Neighbourhood">
-    <img src="./assets/the_neighbourhood.png" alt="The Neighbourhood" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <img src="./assets/the_weeknd.png" alt="The Weeknd" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Lana Del Rey">
-    <img src="./assets/lana_del_rey.png" alt="Lana Del Rey" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <img src="./assets/lana_del_rey.png" alt="Lana Del Rey" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
-  <a href="#" title="Travis Scott">
-    <img src="./assets/travis_scott.png" alt="Travis Scott" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
-  </a>
-  <a href="#" title="Chase Atlantic">
-    <img src="./assets/chase_atlantic.png" alt="Chase Atlantic" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <a href="#" title="The Neighbourhood">
+  <img src="./assets/the_neighbourhood.png" alt="The Neighbourhood" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Cigarettes After Sex">
-    <img src="./assets/cas.png" alt="Cigarettes After Sex" width="90" height="90" style="border-radius:12px; object-fit:cover; margin:6px;" />
+  <img src="./assets/cas.png" alt="Cigarettes After Sex" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  </a>
+  <a href="#" title="Chase Atlantic">
+  <img src="./assets/chase_atlantic.png" alt="Chase Atlantic" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  </a>
+  <a href="#" title="Travis Scott">
+  <img src="./assets/travis_scott.png" alt="Travis Scott" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  </a>
+  <a href="#" title="Post Malone">
+  <img src="./assets/post_malone.png" alt="Post Malone" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  </a>
+  <a href="#" title="Frank Ocean">
+  <img src="./assets/frank_ocean.png" alt="Frank Ocean" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  </a>
+  <a href="#" title="Tyler, The Creator">
+  <img src="./assets/tyler_the_creator.png" alt="Tyler, The Creator" width="70" height="70" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
 </div>
 

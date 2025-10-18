@@ -105,31 +105,31 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 <div align="center">
   <a href="#" title="The Weeknd">
-  <img src="./assets/the_weekend.png" alt="The Weeknd" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/the_weekend.png" alt="The Weeknd" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Lana Del Rey">
-  <img src="./assets/lana_del_ray.png" alt="Lana Del Rey" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/lana_del_ray.png" alt="Lana Del Rey" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="The Neighbourhood">
-  <img src="./assets/the_neighbourhood.png" alt="The Neighbourhood" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/the_neighbourhood.png" alt="The Neighbourhood" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Cigarettes After Sex">
-  <img src="./assets/CAS.png" alt="Cigarettes After Sex" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/CAS.png" alt="Cigarettes After Sex" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Chase Atlantic">
-  <img src="./assets/chase_atlantic.png" alt="Chase Atlantic" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/chase_atlantic.png" alt="Chase Atlantic" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Travis Scott">
-  <img src="./assets/travis_scott.png" alt="Travis Scott" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/travis_scott.png" alt="Travis Scott" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Post Malone">
-  <img src="./assets/post_malone.png" alt="Post Malone" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/post_malone.png" alt="Post Malone" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Frank Ocean">
-  <img src="./assets/frank_ocean.png" alt="Frank Ocean" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/frank_ocean.png" alt="Frank Ocean" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
   <a href="#" title="Tyler, The Creator">
-  <img src="./assets/tyler_the_creator.png" alt="Tyler, The Creator" width="54" height="54" style="border-radius:10px; object-fit:cover; margin:5px;" />
+  <img src="./assets/tyler_the_creator.png" alt="Tyler, The Creator" width="67" height="67" style="border-radius:10px; object-fit:cover; margin:5px;" />
   </a>
 </div>
 

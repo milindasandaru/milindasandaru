@@ -94,6 +94,9 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
   <a href="#" title="Light Yagami">
   <img src="./assets/light_yagami.png" alt="Light Yagami" width="110" height="154" style="border-radius:12px; object-fit:cover; margin:8px; box-shadow:0 2px 8px #2222;" />
   </a>
+  <a href="#" title="L">
+  <img src="./assets/L_DN.png" alt="L" width="110" height="154" style="border-radius:12px; object-fit:cover; margin:8px; box-shadow:0 2px 8px #2222;" />
+  </a>
 </div>
 
 <!--

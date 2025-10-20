@@ -136,8 +136,11 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 ---
 
 <div align="center">
-  <b>Milinda Sandaruwan ❤️</b><br>
-  <p align="center">
+  <b>Milinda Sandaruwan </b>
+  <p style="margin:6px 0 2px 0;">Thank you for visiting my profile!<br>
+  I'm open to work and collaboration opportunities.</p>
+  <p style="margin:6px 0 0 0;">
     <img src="https://komarev.com/ghpvc/?username=milindasandaru&label=Profile%20views&color=0e75b6&style=flat" alt="milindasandaru" />
   </p>
+  <p style="font-size:12px;color:#888;margin-top:8px;">Last updated: October 18, 2025 • Built with ❤️ and coffee ☕</p>
 </div>

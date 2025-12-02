@@ -42,12 +42,12 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 <div align="center">
 <table>
 <tr>
-<td> <img src="https://github-readme-stats.vercel.app/api?username=milindasandaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=milindasandaru&theme=tokyonight&hide_border=true" width="400" /></td>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=milindasandaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats_graph"  /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=milindasandaru&theme=tokyonight&hide_border=true" width="400" alt="streak_graph"/></td>
 </tr>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindasandaru&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="400" /></td>
-<td><img src="https://github-contributor-stats.vercel.app/api?username=milindasandaru&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="400" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindasandaru&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="400" alt="lang_table"/></td>
+<td><img src="https://github-contributor-stats.vercel.app/api?username=milindasandaru&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="400" alt="popular_repos"/></td>
 </tr>
 </table>
 </div>

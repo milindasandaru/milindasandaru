@@ -64,7 +64,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ### 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.instagram.com/milind_sandaruwan_?igsh=cm9yYjl1OHdoZW5k" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram" />
   </a>
@@ -80,7 +80,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
   </a>
-</div>
+</p>
 
 ---
 

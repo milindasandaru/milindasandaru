@@ -65,20 +65,20 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/milind_sandaruwan_?igsh=cm9yYjl1OHdoZW5k" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/samssenarath" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://samssenrath.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="30" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
+  <a href="https://www.instagram.com/milind_sandaruwan_?igsh=cm9yYjl1OHdoZW5k">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samssenarath">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://samssenrath.netlify.app/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
   </a>
 </p>
 

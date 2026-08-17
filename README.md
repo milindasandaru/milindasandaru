@@ -37,7 +37,7 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
 
 ---
 
-### 📊 GitHub Statistics
+<!-- ### 📊 GitHub Statistics
 
 <div align="center">
 <table>
@@ -58,6 +58,45 @@ I enjoy solving complex problems, contributing to open-source projects, and cont
     </td>
   </tr>
 </table>
+</div> -->
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=milindasandaru&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
+          height="180"
+          alt="Milinda Sandaruwan's GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com/?user=milindasandaru&theme=dark&hide_border=true"
+          height="180"
+          alt="Milinda Sandaruwan's GitHub Streak"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=milindasandaru&theme=dark&hide_border=true&layout=compact&langs_count=10"
+          height="180"
+          alt="Milinda Sandaruwan's Top Languages"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-contributor-stats.vercel.app/api?username=milindasandaru&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"
+          height="180"
+          alt="Milinda Sandaruwan's Contributor Stats"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
